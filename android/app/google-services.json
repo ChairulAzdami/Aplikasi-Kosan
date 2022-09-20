@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509398198813",
+    "project_id": "aplikasi-findhouse",
+    "storage_bucket": "aplikasi-findhouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509398198813:android:4b1aa6a953ba6d397f34f4",
+        "android_client_info": {
+          "package_name": "com.example.project_cozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509398198813-0gelaa9reicphfisttmpn4i88r19k5sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZiqOK-Caez03mAgr15QRfDl6kabOJZVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509398198813-0gelaa9reicphfisttmpn4i88r19k5sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
